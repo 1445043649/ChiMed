@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**ChiMed: An Open Source Chinese Medical Large Language Model**
+**ChiMed: An Open Source Chinese Medical Large Language Model **
 
 This project utilized a Chinese medical instruction dataset to fine-tune the **[KnowLM](https://github.com/zjunlp/KnowLM)**-13B model, resulting in a significant improvement in the performance of the large language model in the context of Chinese medical knowledge question-answering scenarios.
 
